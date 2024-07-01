@@ -3,7 +3,7 @@ I love cats <3
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=divinegato&theme=transparent&hide_border=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=divinegato&show_icons=true&locale=en&layout=compact&theme=transparent)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GatoTheGod&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=GatoXTheGodX&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=divinegato&label=Profile%20views&style=for-the-badge)
 ---
